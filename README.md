@@ -4,12 +4,13 @@
 
 Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
 
-Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
+## Notes
 
-Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
+This repository has my own solutions.
 
 ## Acknowledgements
 
+- Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
 - Created by [@tinchoabbate](https://twitter.com/tinchoabbate)
 - [Foundry](https://github.com/gakonst/foundry)
 - [Foundry Book](https://book.getfoundry.sh/)
