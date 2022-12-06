@@ -18,3 +18,9 @@ This repository has my own solutions.
 All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
 
 DO NOT USE IN PRODUCTION.
+
+## Test
+
+```bash
+$ forge test --mc ContractTest -vvv
+```
